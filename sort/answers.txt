@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?:
+there is a considerable difference in time between best and worst case scenarios.
+sort2 uses: merge sort
+
+How do you know?:
+it is faster than the other two in almost all cases.
+sort3 uses: 
+selection sort
+How do you know?:
+there is no big time difference between best and worst case scenarios.
